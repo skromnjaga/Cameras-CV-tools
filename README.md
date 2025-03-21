@@ -4,5 +4,5 @@ This project is a collection of software tools created to perform routine machin
 
 ## Authors
 
-Anton Poroykov, Ph.D., associated professor
+Anton Poroykov, Ph.D., associated professor  
 Danil Yeremin, postgraduated student
